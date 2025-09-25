@@ -19,6 +19,9 @@
       <SelectionState runConfigName="PrincipalBookPreview">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="BookDetailScreenPreview">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>
